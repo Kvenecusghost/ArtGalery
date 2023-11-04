@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Gallery</string>
+    <string name="cansas_city_author">John Doe</string>
+    <string name="cansas_city_location">Cansas city</string>
+    <string name="chicago_author">Jack Black</string>
+    <string name="chicago_location">Chicago</string>
+    <string name="dubai_author">Muhamed Ali</string>
+    <string name="dubai_location">Dubai</string>
+    <string name="moscow_author">Ivan Dorn</string>
+    <string name="moscow_location">Moscow</string>
+    <string name="new_yourk_author">Jenifer Lowrence</string>
+    <string name="new_yourk_location">New York</string>
+    <string name="vancouver_author">Ted Bennet</string>
+    <string name="vancouver_location">Vancouver</string>
+</resources>
